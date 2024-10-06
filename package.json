@@ -4,9 +4,9 @@
 	"description": "Learning node.js",
 	"keywords": ["node", "backend", "api", "freecodecamp"],
 	"license" : "MIT",
-	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"version": "1.2.0"
 	},
 	"main": "server.js",
 	"scripts": {
